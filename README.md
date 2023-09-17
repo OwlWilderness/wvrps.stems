@@ -5,7 +5,7 @@
 
 - Please credit wvrp # and stem used.
 
-- Note WVRP 678 is now longer owned - it was gifted around the time these stems were removed from audius. From what I understand this does not affect exsisting use - only use after transfer.
+- Note WVRP 678 is now no longer owned - it was gifted around the time these stems were removed from audius. From what I understand this does not affect exsisting use - only use after transfer.
 
 ## Links
 - [WVRP Sound HUB](https://hub.warpsound.ai/) (holders)
