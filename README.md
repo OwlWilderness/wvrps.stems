@@ -7,6 +7,11 @@
 
 - Note WVRP 678 is now longer owned - it was gifted around the time these stems were removed from audius. From what I understand this does not affect exsisting use - only use after transfer.
 
+## Links
+- [WVRP Sound HUB](https://hub.warpsound.ai/) (holders)
+- [Music Template](https://warpsound.gitbook.io/nft-music-player-template/nft-music-player-template/what-is-the-nft-music-player-template) (cco)
+- [WVRP ETH Marketplace](https://marketplace.warpsound.ai/collections/0xcbc67ea382f8a006d46eeeb7255876beb7d7f14d/networks/mainnet)
+
 ## Owned Inventory
 - 2360
   - WVRP Bass Stem 2360 Synthy Jaco.wav
